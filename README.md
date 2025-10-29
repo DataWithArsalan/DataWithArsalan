@@ -1,4 +1,4 @@
-#   👋 I’m Muhammad Arsalan, a BSCS student passionate about Data Science
+#   👋 I’m Muhammad Arsalan, a BSCS Student passionate about Data Science
 🔭 I’m currently working on Building SQL projects for ETL, EDA, and analytical insights. 📊<br>
 👯 I’m looking to collaborate on Open-source data projects focused on analytics and problem-solving.
 🤝<br>🤝 I’m looking for help with Exploring Python libraries and data visualization tools. 🐍📈<br>
@@ -15,6 +15,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DataWithArsalan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DataWithArsalan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DataWithArsalan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
